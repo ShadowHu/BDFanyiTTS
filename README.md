@@ -10,6 +10,7 @@ MP3文件会保存在"Mp3files"内
 
 MP3 file will save in "Mp3files"
 
+支持将文本文件拖入命令行，依次生成MP3文件
 
 ---
-EXE Download: https://pan.baidu.com/s/1QHjSA7wuNvVO_klTKAtRVw  9bub
+EXE Download: https://pan.baidu.com/s/1jX7mGNBHyNoEM2JMa8Vvgw vpuy
